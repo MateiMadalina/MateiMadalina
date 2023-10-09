@@ -1,9 +1,9 @@
 
-## Hi there 👋 
+## Hi there😀
 I'm Mada, a passionate Full Stack Developer driven by the joy of coding and continuous growth. I thrive on challenges, maintain a strong commitment to learning, and stay curious in the evolving world of software development.
 
 
-## Skill Set🛠️
+## Skill Set🔧💡💻 
 ![icons8-java-96](https://github.com/MateiMadalina/MateiMadalina/assets/116349352/ca9e7952-2b47-4940-b76f-520fd0399f9d)
 ![icons8-spring-boot-96](https://github.com/MateiMadalina/MateiMadalina/assets/116349352/0712f96b-235b-4c61-b314-15056d6ed679)
 ![icons8-javascript-100](https://github.com/MateiMadalina/MateiMadalina/assets/116349352/f7e59e4b-6b9d-4f95-aa6d-452204044de0)
@@ -23,17 +23,17 @@ I'm Mada, a passionate Full Stack Developer driven by the joy of coding and cont
 
 [Java, Springboot, JavaScript, React, Express, MongDB, PostgreSQL, Bootstrap, CSS, HTML, Node.js, Git, Intellij, Visual Studio Code]
 
-## Currently Learning: 💡🌱
+## Currently Learning: 💡✏️
 
 - Java
 - Springboot
 
-## Future Learning Target🎯
+## Future Learning Target📈🔜
 
 - C#
 
 
-## Hobbies: 🧘🏼‍♀️
+## Hobbies: 🧘🏼‍♀️🔆
 
 - Cooking 🧂👩🏻‍🍳
 - Gym 🏋🏻‍♀️🏃🏻‍♀️
